@@ -91,7 +91,6 @@ input:focus{
   border-radius: 50%;
 }
 .highlight {
-  background-color: #ffeeba; 
-  border: 1px solid #ffc107; 
+  border: 2px solid black; 
   transition: background-color 0.3s ease; 
 }
